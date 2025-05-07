@@ -1,4 +1,3 @@
-
 # AirCanvas
 
 **AirCanvas** is an innovative project that enables users to draw on a virtual canvas using hand gestures, specifically focusing on drawing with the index finger. The application uses **OpenCV** and **MediaPipe** to detect hand gestures and translate them into real-time drawing actions on the screen. The project also features additional functionalities such as adjustable pen thickness, color options, and an eraser tool to enhance the drawing experience.
