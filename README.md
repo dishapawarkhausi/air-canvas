@@ -29,7 +29,7 @@ pip install opencv-python mediapipe numpy
 2. Navigate to the project folder:
 
     ```bash
-    cd aircanvas
+    cd air-canvas
     ```
 
 3. Install required dependencies (as shown above).
