@@ -23,7 +23,7 @@ pip install opencv-python mediapipe numpy
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dishapawarkhausi/aircanvas.git
+    git clone https://github.com/dishapawarkhausi/air-canvas.git
     ```
 
 2. Navigate to the project folder:
